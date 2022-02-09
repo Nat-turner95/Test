@@ -8,5 +8,6 @@ public class Main {
             System.out.println("hello world");
         }
         System.out.println("End");
+        System.out.println("Branch 1");
     }
 }
